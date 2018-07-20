@@ -1,0 +1,107 @@
+.headline {
+	background: linear-gradient(to bottom right, #FCE900, #FC6B00);
+	border-radius: 0;
+	min-height: 300px;
+	background-size: cover;
+	height: 30vh;
+	margin-bottom: 55px;
+	margin-top: 0px;
+}
+.Idrissa {
+	background-image: url("images/Me.jpg");
+	height: 200px;
+	width: 200px;
+	margin-top: 70px;
+	background-position: top center;
+	background-size: cover;
+	border-radius: 500%;
+}
+
+.about{
+	margin-top:100px;
+}
+
+.card {
+  height: 100%;
+  margin: -10px;
+  margin-top: 20px;
+}
+
+h1{
+	font-size: 70px;
+	padding: 50px;
+}
+.card-img-top{
+	height: 300px;
+	background-size: cover;
+	background-position: top center;
+}
+.babyme{
+	background-image: url("images/babyme.jpg");
+
+}
+.MrBerrios{
+	background-image: url("images/Mr.Berrios.jpg");
+}
+.Mandela{
+	background-image: url(images/Mandela.jpg);
+}
+footer{
+	padding: 20px;
+	margin-top: 50px;
+}
+
+.grab {
+	cursor: grab;
+}
+a{
+	color:#FC6B00; 
+}
+a:hover{
+	color: #FF8B00;
+}
+.fa-facebook-square{
+	font-size: 30px;
+	color: #FC6B00;
+	padding: 5px;
+}
+
+.fa-instagram{
+	font-size: 30px;
+	color: #FC6B00;
+	padding: 5px;
+}
+
+.fa-linkedin{
+	font-size: 30px;
+	color: #FC6B00;
+	padding: 5px;
+}
+.fa-facebook-square:hover{
+	color:#FF8B00; 
+}
+.fa-instagram:hover{
+	color:#FF8B00; 
+}
+.fa-linkedin:hover{
+	color:#FF8B00; 
+}
+.btn-lg{
+	background-color: #FC6B00;
+	border-color: #FC6B00;
+}
+
+.btn-lg:hover{
+	background-color: #FF8B00;
+	border-color: #FF8B00;
+}
+
+.btn-primary{
+	background-color: #FC6B00;
+	border-color: #FC6B00;
+}
+
+.btn-primary:hover{
+	background-color: #FF8B00;
+	border-color: #FF8B00;
+}
